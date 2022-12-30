@@ -1,0 +1,50 @@
+Header{
+    background-color: chocolate;
+
+}
+
+body{
+    background-color: burlywood;
+}
+
+h1{ 
+    color:bisque;
+}
+
+table {
+    background-color: bisque;
+    border: 1px solid rgb(192, 192, 192); background-color: rgb(255, 255, 204); 
+    border-collapse: collapse;
+}
+
+
+td{ border: 1px solid #C0C0C0;
+    text-align: center; width: 80px;    
+}
+
+ #een{background-color: antiquewhite;}
+ #twee{background-color: rgb(243, 198, 139);}
+ #drie{background-color: rgb(233, 168, 84);}
+ #vier{background-color: rgb(171, 114, 40);}
+ #vijf{background-color: rgb(137, 81, 8);}
+ #zes{background-color: rgb(101, 172, 89);}
+ #zeven{background-color: rgb(114, 156, 83);}
+ #acht{background-color: rgb(16, 111, 18);}
+ #negen{background-color: rgb(5, 86, 16);}
+ #tien{background-color: rgb(215, 215, 250);}
+ #elf{background-color: rgb(137, 123, 199);}
+ #twaalf{background-color: rgb(62, 55, 147);}
+ #dertien{background-color: rgb(12, 12, 115);}
+ #veertien{background-color: rgb(199, 130, 203);}
+ #vijftien{background-color: rgb(136, 57, 162);}
+ #zestien{background-color: rgb(160, 16, 78);}
+
+
+
+
+
+
+Footer{
+    background-color:rgb(184, 93, 60);
+    color:beige;
+}
